@@ -16,7 +16,7 @@ import (
 func main() {
 	var ctx = gctx.GetInitCtx()
 
-	// Available checks.aaaa
+	// Available checks.11111
 	g.Dump(g.Cfg().Available(ctx))
 
 	// All key-value configurations.
